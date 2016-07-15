@@ -1,0 +1,30 @@
+/* CSS declarations go here */
+
+.container {
+	background-color: pink;
+	width: 200vw;
+	display: flex;
+	padding: 0px;
+	margin: 0px;
+}
+
+.menu {
+	width: 100vw;
+	height: 100vh;
+	background-color: brown;
+	display: flex;
+	align-items: center;
+}
+
+.menu-padding {
+	padding: 20px;
+}
+
+.main {
+	padding: 20px;
+}
+
+button {
+	height: 50px;
+	width: 100px;
+}
